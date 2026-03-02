@@ -1,2 +1,0 @@
-config SHIELD_BT75
-	def_bool $(shield_list_contains, BT75)
